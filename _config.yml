@@ -1,4 +1,26 @@
-title : no there is no needed
-theme: jekyll-theme-minimal
+# Site Basics
+title: "Mohammed Tawshif Hossain"
+description: "PhD Candidate | EEG + Machine Learning + Quantum Computing"
+url: "https://yourusername.github.io"  # Replace with your GitHub username
+baseurl: ""  # Leave empty for personal sites
 
+# Author Details
+author:
+  name: "Mohammed Tawshif Hossain"
+  bio: "Researcher in Neurotechnology & AI"
+  email: "your@email.com"
+  github: "yourusername"
+  linkedin: "yourusername"
+  avatar: "profile.jpg"  # Place in /assets/images/
 
+# Minimal Theme (No Plugins Needed)
+theme: jekyll-theme-minima
+
+# Default Settings
+defaults:
+  - scope:
+      path: ""  # All files
+      type: pages
+    values:
+      layout: default
+      show_sidebar: false  # Clean single-column layout
