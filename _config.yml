@@ -3,9 +3,9 @@ title: "Mohammed Tawshif Hossain"
 title_separator: "-"
 name: &name "Mohammed Tawshif Hossain"
 description: &description "PhD Student | EEG + ML + Quantum Computing"
-url: "https://mohammedtawshif.github.io"
-baseurl: "/academicpages" # Adjust if your repository name differs
-repository: "mohammedtawshif/academicpages"
+url: "https://Mohammed Tawshif Hossain.github.io"
+baseurl: "/Mohammed-Tawshif-Hossain" # Adjust if your repository name differs
+repository: "Mohammed-Tawshif-Hossain"
 
 # Site Author
 author:
